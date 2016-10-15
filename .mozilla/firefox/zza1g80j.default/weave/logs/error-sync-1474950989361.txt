@@ -1,0 +1,41 @@
+1474946124002	Sync.Service	INFO	Loading Weave 1.46.0
+1474946124005	Sync.Engine.Clients	DEBUG	Engine initialized
+1474946124007	Sync.Engine.Clients	DEBUG	Resetting clients last sync time
+1474946124014	Sync.Engine.Bookmarks	DEBUG	Engine initialized
+1474946124018	Sync.Engine.Forms	DEBUG	Engine initialized
+1474946124022	Sync.Engine.History	DEBUG	Engine initialized
+1474946124027	Sync.Engine.Passwords	DEBUG	Engine initialized
+1474946124031	Sync.Engine.Prefs	DEBUG	Engine initialized
+1474946124034	Sync.Engine.Tabs	DEBUG	Engine initialized
+1474946124035	Sync.Engine.Tabs	DEBUG	Resetting tabs last sync time
+1474946124041	Sync.Engine.Addons	DEBUG	Engine initialized
+1474946124042	Sync.Service	INFO	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+1474946124047	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1474946124048	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1474946124048	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1474946124048	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1474946124048	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1474946124112	browserwindow.syncui	DEBUG	observed: weave:service:ready
+1474946124113	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1474946124113	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1474946124114	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1474946124116	browserwindow.syncui	DEBUG	_loginFailed has sync state=error.login.reason.no_username
+1474946124120	Sync.Tracker.Clients	WARN	Changed IDs file clients contains non-object value.
+1474946124158	Sync.Tracker.Bookmarks	WARN	Changed IDs file bookmarks contains non-object value.
+1474946124172	Sync.Tracker.Forms	WARN	Changed IDs file forms contains non-object value.
+1474946124173	Sync.Tracker.History	WARN	Changed IDs file history contains non-object value.
+1474946124186	Sync.Tracker.Passwords	WARN	Changed IDs file passwords contains non-object value.
+1474946124189	Sync.Tracker.Addons	WARN	Changed IDs file addons contains non-object value.
+1474946477989	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1474947389354	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1474950989355	Sync.Service	DEBUG	User-Agent: Firefox/44.0.2 FxSync/1.46.0.20160209234642.
+1474950989355	Sync.Service	INFO	Starting sync at 2016-09-27 10:06:29
+1474950989356	Sync.Service	DEBUG	In sync: should login.
+1474950989357	browserwindow.syncui	DEBUG	observed: weave:service:login:start
+1474950989358	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1474950989358	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1474950989358	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1474950989358	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1474950989359	browserwindow.syncui	DEBUG	observed: weave:service:login:error
+1474950989360	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1474950989360	Sync.ErrorHandler	ERROR	Sync encountered a login error
